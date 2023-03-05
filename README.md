@@ -102,6 +102,7 @@ I wrote to a .csv file using
 ```
 
 From this assignment, I learnt interesting ways to process data and I found the file.choose() attribute very useful as it allows us to select what file we want to analyze without having to specify the file location. 
+I have also uploaded the .csv files I obtained. 
 
 
 
